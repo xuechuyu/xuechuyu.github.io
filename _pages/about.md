@@ -47,7 +47,8 @@ Fangzhou Lin, Yun Yue, Songlin Hou, **Xuechu Yu**, Yajun Xu, Kazunori D Yamada, 
 
 - Apply Chamfer distance in Hyperbolic space to deal with outlier sensibility for Point Cloud Completion.
 - Experimental results show this new method can get the state-of-the-art performance on the benchmark datasets, i.e.
-PCN, ShapeNet-55, and ShapeNet-34.</div>
+PCN, ShapeNet-55, and ShapeNet-34.
+</div>
 </div>
 
 
