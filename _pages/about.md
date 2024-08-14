@@ -63,7 +63,6 @@ PCN, ShapeNet-55, and ShapeNet-34.</div>
 </div>
 </div>
 
-#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - UCF Graduate Artificial Intelligence Initiative Fellowship. 2024.
