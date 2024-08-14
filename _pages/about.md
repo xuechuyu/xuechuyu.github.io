@@ -37,31 +37,33 @@ My current research focuses on generative model (mainly on diffusion model now),
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Hyperbolic Chamfer Distance for Point Cloud Completion.](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.pdf) ICCV 2023
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Fangzhou Lin, Yun Yue, Songlin Hou, **Xuechu Yu**, Yajun Xu, Kazunori D Yamada, Ziming Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Apply Chamfer distance in Hyperbolic space to deal with outlier sensibility for Point Cloud Completion.
+- Experimental results show this new method can get the state-of-the-art performance on the benchmark datasets, i.e.
+PCN, ShapeNet-55, and ShapeNet-34.</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Leveraging Superfluous Information in Contrastive Representation Learning.](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.pdf) arXiv 2024
+
+**Xuechu Yu**, Fangzhou Lin, Yun Yue, Ziming Zhang
+
+- Conjecture that the learned representations by contrastive learning not only maintain task-relevant information but also carry task-irrelevant information and design a new robust contrastive loss to eliminate this superfluous information.
+- The new loss can often outperform the traditional contrastive learning approaches on image classification, object detection and instance segmentation tasks.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - UCF Graduate Artificial Intelligence Initiative Fellowship. 2024.
