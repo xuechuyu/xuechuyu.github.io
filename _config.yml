@@ -9,7 +9,7 @@
 title                    : "Homepage"
 description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+# google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -26,10 +26,10 @@ author:
   bio              : "Ph.D. student at University of Central Florida (UCF)"
   location         : "Orlando, FL"
   employer         : "University of Central Florida"
+  email            : "xuechu_yu@ucf.edu"
   github           : "xuechuyu"
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xuechu_yu@ucf.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"  
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +38,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
