@@ -55,6 +55,7 @@ PCN, ShapeNet-55, and ShapeNet-34.
 # 🎖 Honors and Awards
 - UCF Graduate Artificial Intelligence Initiative Fellowship. 2024.
 - China National Scholarship. 2015.
+- China National Inspirational Scholarship. 2014.
 
 # 📖 Educations
 - *2024.09 - Now*, Ph.D., Computer Science, University of Central Florida.
