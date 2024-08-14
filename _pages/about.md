@@ -38,7 +38,7 @@ My current research focuses on generative model (mainly on diffusion model now),
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/HyperCD.png' alt="HyperCD" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hyperbolic Chamfer Distance for Point Cloud Completion.](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.pdf) ICCV 2023
@@ -52,7 +52,7 @@ PCN, ShapeNet-55, and ShapeNet-34.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SuperInfo.png' alt="SuperInfo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Superfluous Information in Contrastive Representation Learning.](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.pdf) arXiv 2024
