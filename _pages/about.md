@@ -42,7 +42,7 @@ PCN, ShapeNet-55, and ShapeNet-34.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SuperInfo.png' alt="SuperInfo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Leveraging Superfluous Information in Contrastive Representation Learning.](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_Hyperbolic_Chamfer_Distance_for_Point_Cloud_Completion_ICCV_2023_paper.pdf) arXiv 2024
+[Leveraging Superfluous Information in Contrastive Representation Learning.](https://arxiv.org/abs/2408.10292) arXiv 2024
 
 **Xuechu Yu**, Fangzhou Lin, Yun Yue, Ziming Zhang
 
